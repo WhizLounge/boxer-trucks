@@ -17,6 +17,8 @@ builder.Services.AddSwaggerGen();
 // 3) Register your business logic service (Dependency Injection)
 
 builder.Services.AddScoped<QuoteService>();
+builder.Services.AddScoped<JobService>();
+builder.Services.AddSingleton<ITimeProvider, SystemTimeProvider>();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
