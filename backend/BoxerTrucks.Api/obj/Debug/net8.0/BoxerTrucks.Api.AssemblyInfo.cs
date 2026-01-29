@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoxerTrucks.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1adf6dcb16f5e6efea69d5558f836dc5eff041")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoxerTrucks.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoxerTrucks.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
