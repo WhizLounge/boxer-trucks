@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BoxerTrucks.Api.props" />
+</Project>
