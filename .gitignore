@@ -1,6 +1,15 @@
-**/*.db
-**/*.db-shm
-**/*.db-wal
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# .NET build folders
 bin/
 obj/
+
+# VS Code settings
 .vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
